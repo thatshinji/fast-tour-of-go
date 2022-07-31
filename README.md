@@ -20,5 +20,5 @@ func TestHelloWorld(t *testing.T) {
 ```
 
 ### 目录
-1. [go程序组成](./program_composition)
-2. [go变量声明](./declaration)
+1. [go程序组成](https://github.com/thatshinji/fast-tour-of-go/tree/main/src/program_composition)
+2. [go变量声明](https://github.com/thatshinji/fast-tour-of-go/tree/main/src/declaration)
