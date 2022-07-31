@@ -1,4 +1,4 @@
-package declaration
+package declaration_test
 
 // 只包含基本数据类型的声明，不包含slice,array, map等
 import "testing"

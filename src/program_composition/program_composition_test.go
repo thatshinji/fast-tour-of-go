@@ -2,7 +2,7 @@
 Go程序的基本组成内容
 */
 // 包名
-package program_composition
+package program_composition_test
 
 // 导入golang内部包或第三方包
 import (
