@@ -4,6 +4,7 @@ package declaration_test
 import "testing"
 
 // 因式分解关键字创建变量一般多用于声明全局变量
+// const 关键字声明常量
 const (
 	constInt  = 1
 	constBool = true
