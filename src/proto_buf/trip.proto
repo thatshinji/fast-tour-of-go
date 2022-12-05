@@ -1,0 +1,10 @@
+syntax="proto3";
+package proto_buf;
+option go_package="fast_tour_of_go/src/proto_buf;trippb";
+
+message Trip {
+  string start  = 1;
+  string end = 2;
+  int64 duration_sec = 3;
+  int64 fee_cent = 4;
+}
