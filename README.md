@@ -1,7 +1,5 @@
-# fast-tour-of-go
-## Go快速入门
-本教程go版本采用了 version 1.18
-### 本教程采用Go规范的单元测试代码用作示例
+# Go-Trip
+### 仓库采用Go规范的单元测试代码用作示例
 1. 单元测试文件必须以_test.go结尾命名
 2. 单元测试方法名须为 Test 开头, `function TestXXX()`
 3. 单元测试方法参数必须是(t *Testing.T), `func TestGo(t *testing.T){/*...*/}`
